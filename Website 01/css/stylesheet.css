@@ -1,1 +1,10 @@
 body { background-color: red;}
+
+.my-head {
+    color: #ffff;
+}
+
+#min-boks {
+    background-color: aquamarine;
+    color: crimson;
+}
