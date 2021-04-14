@@ -9,15 +9,19 @@
     <body>
         <div id="wrapper" class="wrapper">          
             <div id="loginCont" class="loginCont">
-                <input type="text" placeholder="Username" id="username" name= "username" class="login-item"></input>
-                <input type="password" placeholder="Password" id="password" name="password" class="login-item"></input>
-                <button type="button" id="loginButton" class="loginButton">LOGIN</button>
+                <input type="text" placeholder="Email" id="InputUsername" name= "username" class="login-item"></input>
+                <input type="password" placeholder="Password" id="InputPassword" name="password" class="login-item"></input>
+                <button type="button" id="btnLogin" class="btnLogin">LOGIN</button>
                     <div id="registerAccount" class="registerAccount">
                         <p1>Not registered?</p1>
                         <a href="dummylink.com">Create an account</a>
                     </div>
+                    <div type="text" id="WarningCont" class="warningCont" name="WarningText">
+                        <p2 id="WarningMsg"0></p>
+                    </div>
             </div>
         </div>  
+        <script src="./js/script.js"></script>
+        <script src="./js/warning.js"></script>
     </body>
-
 </html>
