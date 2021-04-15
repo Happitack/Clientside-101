@@ -18,7 +18,7 @@ btnLogin.addEventListener("click", function (e) {
             text = "Password can't be empty";
             break;
         case 3:
-            text = "Password is too short";
+            text = "Password is too short (minimum of 8 characters)";
             break;
         case 4:
             text = "";
