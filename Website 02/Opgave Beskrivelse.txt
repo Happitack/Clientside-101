@@ -2,4 +2,20 @@
 	a. Navn
 	b. Telefon
 	c. Email
-2. Lav eventhandler som kan håndtere processeringen af information (OK, Cancel og Se Navne Knapper)
+2. Lav eventhandler som kan håndtere processeringen af information (OK, Cancel og Se Navne)
+3. Lav display box som kan fremvise den gemte information
+
+Elementer:
+
+Input Felter:
+1) Navn
+2) Telefon
+3) Email
+
+Button:
+1) Ok		| Når det trykkes på OK skal information gemmes i et array og felterne cleares
+2) Cancel	| Når der trykkes på cancel, skal fleternes cleares
+3) Se Navne	| Når der der klikkes på se navne, skal arrays fremvises i infoboksen.
+
+Infoboks:
+Skal kunne fremvise gemt information
