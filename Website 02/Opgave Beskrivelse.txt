@@ -1,0 +1,5 @@
+1. Lav en HTML side der kan gemme og fremvise følgende informationer
+	a. Navn
+	b. Telefon
+	c. Email
+2. Lav eventhandler som kan håndtere processeringen af information (OK, Cancel og Se Navne Knapper)
